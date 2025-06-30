@@ -4,26 +4,29 @@ Welcome to the **Core Java** repository — a structured collection of Java fund
 
 ## Repository Guide
 
-- 📂 [Basic Codes](./basic%20codes):  
+- 📂 [Basic Codes](./Basic%20Codes):  
   Simple Java programs to get started. Perfect for beginners to understand syntax and structure.
 
-- 📂 [DSA Using Java](./dsa%20using%20java):  
+- 📂 [DSA Using Java](./DSA%20Using%20Java):  
   Implementations of classic Data Structures and Algorithms using Java. Includes arrays, linked lists, trees, sorting algorithms, etc.
 
-- 📂 [Java Topics](./java-topics):  
+- 📂 [Java Topics](./Java-Topics):  
   Concept-based deep-dives with examples.
 
   ### Chapters:
-  - [Abstract Class](./java-topics/abstract%20class)
-  - [Array & ArrayList](./java-topics/array%20and%20arraylist)
-  - [Inheritance](./java-topics/inheritance)
-  - [Interfaces](./java-topics/interfaces)
-  - [Static Keyword](./java-topics/static)
-  - [Strings](./java-topics/strings)
-  - [Exception Handling](./java-topics/exception%20handling)
-  - [Collections Framework](./java-topics/collections)
-  - [Multithreading](./java-topics/multithreading)
-  - [File Handling](./java-topics/file%20handling)
+  - [Abstract Class](./Java-Topics/Abstract%20and%20Interface)
+  - [Array & ArrayList](./Java-Topics/Array%20Arraylist)
+  - [Array of Objectss](./Java-Topics/ArrayOfObjects)
+  - [Exception Handling](./Java-Topics/Exception%20Handling)
+  - [File Handling](./Java-Topics/File%20Handling)
+  - [Inheritance](./Java-Topics/Inheritance)
+  - [Overloading & Overriding](./Java-Topics/OverLoading%20&%20overRidingHandling)
+  - [Package](./Java-Topics/PACKAGE)
+  - [Static Instance](./Java-Topics/Static-Instance)
+  - [File Handling](./Java-Topics/File%20Handling)
+  - [String](./Java-Topics/String)
+  - [Swing](./Java-Topics/Swing)
+  - [Multithreading](./Java-Topics/Thread)
 
 - 📂 [Books](./books):  
   Recommended Java books and PDFs that help strengthen your concepts.
