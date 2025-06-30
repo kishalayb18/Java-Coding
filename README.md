@@ -4,16 +4,16 @@ Welcome to the **Core Java** repository — a structured collection of Java fund
 
 ## Repository Guide
 
-- 📂 [Basic Codes](./Basic%20Codes):  
+### [Basic Codes](./Basic%20Codes):  
   Simple Java programs to get started. Perfect for beginners to understand syntax and structure.
 
-- 📂 [DSA Using Java](./DSA%20Using%20Java):  
+### [DSA Using Java](./DSA%20Using%20Java):  
   Implementations of classic Data Structures and Algorithms using Java. Includes arrays, linked lists, trees, sorting algorithms, etc.
 
-- 📂 [Java Topics](./Java-Topics):  
+### [Java Topics](./Java-Topics):  
   Concept-based deep-dives with examples.
 
-  ### Chapters:
+  #### Chapters:
   - [Abstract Class](./Java-Topics/Abstract%20and%20Interface)
   - [Array & ArrayList](./Java-Topics/Array%20Arraylist)
   - [Array of Objectss](./Java-Topics/ArrayOfObjects)
@@ -28,10 +28,10 @@ Welcome to the **Core Java** repository — a structured collection of Java fund
   - [Swing](./Java-Topics/Swing)
   - [Multithreading](./Java-Topics/Thread)
 
-- 📂 [Books](./books):  
+### [Books](./books):  
   Recommended Java books and PDFs that help strengthen your concepts.
 
-- 📂 [College Practice](./clg):  
+### [College Practice](./clg):  
   Java programs and assignments solved during college coursework.
 
 ---
@@ -40,7 +40,7 @@ Welcome to the **Core Java** repository — a structured collection of Java fund
 
 We welcome contributions to improve this repository!
 
-To contribute:
+#### To contribute:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
@@ -51,7 +51,7 @@ To contribute:
 
 ---
 
-## 👤 Current Contributor
+## Current Contributor
 
 - [Kishalay Bhattacharya](https://github.com/kishalayb18)
 
