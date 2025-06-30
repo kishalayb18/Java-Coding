@@ -20,7 +20,7 @@ Welcome to the **Core Java** repository — a structured collection of Java fund
   - [Exception Handling](./Java-Topics/Exception%20Handling)
   - [File Handling](./Java-Topics/File%20Handling)
   - [Inheritance](./Java-Topics/Inheritance)
-  - [Overloading & Overriding](./Java-Topics/OverLoading%20&%20overRidingHandling)
+  - [Overloading Overriding](./Java-Topics/Overloading%20&%20OverRiding)
   - [Package](./Java-Topics/PACKAGE)
   - [Static Instance](./Java-Topics/Static-Instance)
   - [File Handling](./Java-Topics/File%20Handling)
@@ -31,7 +31,7 @@ Welcome to the **Core Java** repository — a structured collection of Java fund
 - 📂 [Books](./books):  
   Recommended Java books and PDFs that help strengthen your concepts.
 
-- 📂 [College Practice](./college%20practice):  
+- 📂 [College Practice](./clg):  
   Java programs and assignments solved during college coursework.
 
 ---
