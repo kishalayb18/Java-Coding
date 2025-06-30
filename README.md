@@ -2,16 +2,15 @@
 
 Welcome to the **Core Java** repository — a structured collection of Java fundamentals, Data Structures and Algorithms (DSA), and practical exercises. This repository is designed to help beginners and intermediate learners navigate through Java concepts easily.
 
-## Repository Guide
+## Repository Folders
 
-### [Basic Codes](./Basic%20Codes):  
-  Simple Java programs to get started. Perfect for beginners to understand syntax and structure.
+### 1. [Basic Codes](./Basic%20Codes):  
+  _Simple Java programs to get started. Perfect for beginners to understand syntax and structure_
 
-### [DSA Using Java](./DSA%20Using%20Java):  
-  Implementations of classic Data Structures and Algorithms using Java. Includes arrays, linked lists, trees, sorting algorithms, etc.
+### 2. [DSA Using Java](./DSA%20Using%20Java):  
+  _Implementations of classic Data Structures and Algorithms using Java. Includes arrays, linked lists, trees, sorting algorithms_
 
-### [Java Topics](./Java-Topics):  
-  Concept-based deep-dives with examples.
+### 3. [Java Topics](./Java-Topics):
 
   #### Chapters:
   - [Abstract Class](./Java-Topics/Abstract%20and%20Interface)
@@ -28,11 +27,11 @@ Welcome to the **Core Java** repository — a structured collection of Java fund
   - [Swing](./Java-Topics/Swing)
   - [Multithreading](./Java-Topics/Thread)
 
-### [Books](./books):  
-  Recommended Java books and PDFs that help strengthen your concepts.
+### 4. [Books](./books):  
+  _Recommended Java books and PDFs that help strengthen your concepts_
 
-### [College Practice](./clg):  
-  Java programs and assignments solved during college coursework.
+### 5. [College Practice](./clg):  
+  _Java programs and assignments solved during college coursework_
 
 ---
 
